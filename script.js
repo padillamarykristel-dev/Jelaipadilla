@@ -1,3 +1,1 @@
-function greet() {
-  alert("Hello! Welcome to ScamAlert!");
-}
+console.log("Take a deep breath.");
